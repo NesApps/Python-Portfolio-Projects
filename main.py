@@ -65,4 +65,4 @@ for key, value in quiz.items():
         print("")
 
 print(f"You got {score} out of 8 questions correctly")
-print(f"Your percentage is {int(score / 7*100)}%")
+print(f"Your percentage is {int(score / 9*100)}%")
